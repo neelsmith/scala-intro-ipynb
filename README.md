@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
+
 # scala-intro-ipynb
 
 Introduciton to a minimal amount of Scala to do some useful things, presented in Jupyter notebooks
